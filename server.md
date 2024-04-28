@@ -10,6 +10,8 @@
 * 느린 접속 & 불쾌한 게임플레이 보장! [(맘에 안든다면?)](faq#서버가-맘에-안들어요-근데-나는-돈이-많아요)
 * 다양?한 모드 추가!!
 * 자동화/공장 환영!! (서버에 무리가 안가는 선에서)
+* 난이도: 보통, 킵인벤 사용
+* `TLauncher` 사용자들을 위해 `offline-mode`로 작동합니다. 스킨이 로딩되지 않는 경우 [OfflineSkins (Fabric)](https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric)을 설치하세요.
 
 # 서버 규칙
 1. **제발** 서버에 무리가 가는 짓좀 하지 마세요!!
