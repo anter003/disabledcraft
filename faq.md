@@ -68,7 +68,8 @@ REI 쓸사람은 EMI 지우고 써도 됩니당.
 좋은 질문입니다.
 
 * 서버 하드웨어 사양
-
+  * intel Core i3 550
+  * SDR SDRAM 6GB(2GB+4GB)
 > 서버는 Ubuntu + [docker](https://hub.docker.com/r/itzg/minecraft-server) + [duckdns](https://hub.docker.com/r/linuxserver/duckdns) 로 작동합니다.
 
 > 도움말 페이지는 [docsify](https://docsify.js.org/#/) + **github pages**로 만들었습니다.
